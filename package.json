@@ -6,7 +6,15 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"keywords": [],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MIrfanul/twit-playground.git"
+	},
+	"keywords": [
+		"twitter",
+		"api",
+		"playground"
+	],
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
